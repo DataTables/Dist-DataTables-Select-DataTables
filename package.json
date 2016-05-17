@@ -5,6 +5,7 @@
     "files": [
         "css/select.dataTables.css"
     ],
+    "style": "css/select.dataTables.css",
     "keywords": [
         "select",
         "selection",
