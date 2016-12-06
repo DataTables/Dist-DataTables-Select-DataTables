@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-select-dt",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Select for DataTables ",
     "files": [
         "css/select.dataTables.css"
