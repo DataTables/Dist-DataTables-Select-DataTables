@@ -3,7 +3,7 @@
     "version": "1.2.2",
     "description": "Select for DataTables ",
     "files": [
-        "css/select.dataTables.css"
+        "css/**/*.css"
     ],
     "style": "css/select.dataTables.css",
     "keywords": [
