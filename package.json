@@ -2,12 +2,14 @@
     "name": "datatables.net-select-dt",
     "description": "Select for DataTables with styling for [DataTables](https://datatables.net/)",
     "main": "js/select.dataTables.js",
+    "module": "js/select.dataTables.mjs",
     "style": "css/select.dataTables.css",
     "types": "./types/select.dataTables.d.ts",
     "version": "1.4.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
