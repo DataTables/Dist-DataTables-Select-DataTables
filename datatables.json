@@ -10,7 +10,8 @@
         "css/select.dataTables.min.css"
     ],
     "types": [
-        "types/select.dataTables.d.ts"
+        "types/select.dataTables.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/Select",
     "last-tag": "1.4.0"
