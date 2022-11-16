@@ -28,10 +28,9 @@
 				require('datatables.net-dt')(root, $);
 			}
 
-			if ( ! $.fn.dataTable ) {
+			if ( ! $.fn.dataTable.select ) {
 				require('datatables.net-select')(root, $);
 			}
-
 
 			return factory( $, root, root.document );
 		};
