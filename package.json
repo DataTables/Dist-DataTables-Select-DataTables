@@ -5,7 +5,7 @@
     "module": "js/select.dataTables.mjs",
     "style": "css/select.dataTables.css",
     "types": "./types/select.dataTables.d.ts",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,8 +14,8 @@
     ],
     "keywords": [
         "select",
- "selection",
-                "Datatables",
+        "selection",
+        "Datatables",
         "jQuery",
         "table",
         "filter",
