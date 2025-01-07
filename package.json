@@ -5,7 +5,7 @@
     "module": "js/select.dataTables.mjs",
     "style": "css/select.dataTables.css",
     "types": "./types/select.dataTables.d.ts",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -22,7 +22,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-select": "2.1.0",
+        "datatables.net-select": "3.0.0",
         "datatables.net-dt": "^2",
         "jquery": ">=1.7"
     },
