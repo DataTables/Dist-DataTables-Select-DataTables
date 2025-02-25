@@ -27,7 +27,7 @@ import DataTable from 'datatables.net-dt';
 import 'datatables.net-select-dt'
 
 new DataTable('#myTable', {
-    // initalisation options
+    // initialisation options
 });
 ```
 
