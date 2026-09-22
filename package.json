@@ -5,7 +5,7 @@
     "module": "./js/select.dataTables.mjs",
     "style": "./css/select.dataTables.css",
     "types": "./types/select.dataTables.d.ts",
-    "version": "4.0.1",
+    "version": "4.1.0",
     "files": [
         "js",
         "css",
@@ -20,8 +20,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-select": "4.0.1",
-        "datatables.net-dt": "^3"
+        "datatables.net-select": "4.1.0",
+        "datatables.net-dt": "^3.1"
     },
     "author": {
         "name": "SpryMedia Ltd",
