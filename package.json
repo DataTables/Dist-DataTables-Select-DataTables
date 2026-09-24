@@ -37,9 +37,10 @@
     "exports": {
         ".": {
             "types": "./types/select.dataTables.d.ts",
+            "style": "./css/select.dataTables.css",
             "import": "./js/select.dataTables.mjs",
-            "default": "./js/select.dataTables.mjs",
-            "require": "./js/select.dataTables.js"
+            "require": "./js/select.dataTables.js",
+            "default": "./js/select.dataTables.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
